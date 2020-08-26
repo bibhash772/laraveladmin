@@ -1,0 +1,2 @@
+TestID,ESVID,Kingdom,Phylum,Order,Family,Genus,Species,CommonName,PercMatch,Sequence,Class
+Fish,ESV00001,Eukaryota,Chordata,Acipenseriformes,Acipenseridae,Ascipenser ,fulvescens,Smallmouth Bass,100,AGCT,first
